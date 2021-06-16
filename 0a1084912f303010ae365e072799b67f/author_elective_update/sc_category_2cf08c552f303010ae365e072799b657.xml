@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="DELETE">
+        <active>true</active>
+        <description>Virtual Agent topics for the NeedIt Virtual Agent Conversations application</description>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog/>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-16 03:35:45</sys_created_on>
+        <sys_id>2cf08c552f303010ae365e072799b657</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Virtual Agent Topics</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_601854_needit_vi">0a1084912f303010ae365e072799b67f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">0a1084912f303010ae365e072799b67f</sys_scope>
+        <sys_update_name>sc_category_2cf08c552f303010ae365e072799b657</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-16 03:35:45</sys_updated_on>
+        <title>NeedIt Virtual Agent Topics</title>
+    </sc_category>
+    <sys_translated_text action="DELETE" query="documentkey=2cf08c552f303010ae365e072799b657"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt Virtual Agent Conversations">0a1084912f303010ae365e072799b67f</application>
+        <file_path/>
+        <instance_id>6300a0e8dbc57bc09df22f17d49619e2</instance_id>
+        <instance_name>dev82869</instance_name>
+        <name>sc_category_2cf08c552f303010ae365e072799b657</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category"><sc_category action="INSERT_OR_UPDATE"><active>true</active><description>Virtual Agent topics for the NeedIt Virtual Agent Conversations application</description><entitlement_script/><header_icon/><homepage_image/><homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer><icon/><image/><location/><mobile_hide_description>false</mobile_hide_description><mobile_picture/><mobile_subcategory_render_type>list</mobile_subcategory_render_type><module/><order>0</order><parent/><roles/><sc_catalog/><sys_class_name>sc_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-16 03:35:45</sys_created_on><sys_id>2cf08c552f303010ae365e072799b657</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Virtual Agent Topics</sys_name><sys_package display_value="NeedIt Virtual Agent Conversations" source="x_601854_needit_vi">0a1084912f303010ae365e072799b67f</sys_package><sys_policy/><sys_scope display_value="NeedIt Virtual Agent Conversations">0a1084912f303010ae365e072799b67f</sys_scope><sys_update_name>sc_category_2cf08c552f303010ae365e072799b657</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-16 03:35:45</sys_updated_on><title>NeedIt Virtual Agent Topics</title></sc_category><sys_translated_text action="delete_multiple" query="documentkey=2cf08c552f303010ae365e072799b657"/></record_update>]]></payload>
+        <payload_hash>-2056251389</payload_hash>
+        <record_name>NeedIt Virtual Agent Topics</record_name>
+        <reverted_from/>
+        <source>421084912f303010ae365e072799b682</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-16 03:35:45</sys_created_on>
+        <sys_id>b3f048552f303010ae365e072799b647</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a12e3a2450000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-16 03:35:45</sys_updated_on>
+        <type>Category</type>
+        <update_guid>fbf048555930301049b85f176faaa246</update_guid>
+        <update_guid_history>fbf048555930301049b85f176faaa246:-2056251389</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt Virtual Agent Topics">8b41c0952f303010ae365e072799b6ef</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-16 03:37:05</sys_created_on>
+        <sys_db_object display_value="" name="sc_category">sc_category</sys_db_object>
+        <sys_id>2bee0a0cea8a42388c1a82e011b96289</sys_id>
+        <sys_metadata>2cf08c552f303010ae365e072799b657</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Virtual Agent Topics</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_601854_needit_vi">0a1084912f303010ae365e072799b67f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">0a1084912f303010ae365e072799b67f</sys_scope>
+        <sys_scope_delete display_value="">4b438c831ca4458cab9e831d07c8be10</sys_scope_delete>
+        <sys_update_name>sc_category_2cf08c552f303010ae365e072799b657</sys_update_name>
+        <sys_update_version display_value="sc_category_2cf08c552f303010ae365e072799b657">b3f048552f303010ae365e072799b647</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-16 03:37:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
